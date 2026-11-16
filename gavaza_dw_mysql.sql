@@ -1,14 +1,12 @@
--- ============================================================
 -- GAVAZA SESINYANI DESIGN APRONS (PTY) LTD
 -- E-Commerce Sales Analytics & Data Warehouse
--- MySQL 8+ / PostgreSQL compatible
--- ============================================================
+-- MySQL / PostgreSQL 
+
 CREATE DATABASE IF NOT EXISTS gavaza_dw;
 USE gavaza_dw;
 
--- ============================================================
 -- 1. OLTP TABLES (RAW / SOURCE DATA) - 100 records each
--- ============================================================
+
 
 CREATE TABLE locations (
     location_id    INT PRIMARY KEY,
@@ -804,9 +802,7 @@ INSERT INTO payments (payment_id, order_id, payment_date, payment_method, amount
 (100, 100, '2023-07-09', 'PayFast', 1646.1, 'Completed');
 
 
--- ============================================================
 -- 2. STAR SCHEMA (DATA WAREHOUSE LAYER)
--- ============================================================
 
 CREATE TABLE dim_date (
     date_key     INT PRIMARY KEY,
@@ -900,9 +896,7 @@ JOIN products   p  ON ol.product_id = p.product_id
 JOIN payments   pay ON o.order_id = pay.order_id
 WHERE o.status <> 'Cancelled';
 
--- ============================================================
 -- 3. ANALYTICAL VIEWS (FEED THE POWER BI DASHBOARD)
--- ============================================================
 
 -- KPI: Total Revenue
 CREATE VIEW v_total_revenue AS
@@ -977,11 +971,9 @@ FROM fact_sales f
 JOIN dim_date d ON f.date_key = d.date_key
 GROUP BY d.year, d.month_num, d.month_name;
 
--- ============================================================
 -- 4. EXAMPLE CTE QUERIES
--- ============================================================
 
--- Top 5 customers by revenue (CTE)
+-- Top 5 customers by revenue 
 WITH customer_revenue AS (
     SELECT c.customer_id, c.first_name, c.last_name, c.segment,
            SUM(f.line_total) AS total_spent
@@ -991,7 +983,7 @@ WITH customer_revenue AS (
 )
 SELECT * FROM customer_revenue ORDER BY total_spent DESC LIMIT 5;
 
--- Best-selling category per province (CTE + window function)
+-- Best-selling category per province 
 WITH prov_cat AS (
     SELECT l.province, p.category, SUM(f.line_total) AS revenue,
            RANK() OVER (PARTITION BY l.province ORDER BY SUM(f.line_total) DESC) AS rnk
@@ -1003,7 +995,7 @@ WITH prov_cat AS (
 SELECT province, category, ROUND(revenue,2) AS revenue
 FROM prov_cat WHERE rnk = 1;
 
--- Profit analysis (CTE)
+-- Profit analysis 
 WITH profit AS (
     SELECT p.category,
            SUM(f.line_total) - SUM(f.cost_total) AS gross_profit
