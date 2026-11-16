@@ -61,3 +61,28 @@ Repository Structure
 ├── Gavaza_Sesinyani_Dashboard.pbix   # Power BI dashboard file
 └── README.md
 
+2. Business Rules
+
+BR-01 Order validity: An order must belong to one existing customer and one existing location. Orders with status `Cancelled` are excluded from all revenue calculations.
+
+BR-02 Revenue definition: Revenue = sum of `order_lines[line_total]` (quantity × unit price) for non-cancelled orders. Payments are used to confirm settlement, not to calculate revenue.
+
+BR-03 Discount handling: If a payment amount differs from the order total, the difference is recorded as a discount in the fact table.
+
+BR-04 Customer segmentation: Customers are classified by lifetime spend VIP (> R9,000), Loyal (R4,001–R9,000), Regular 1,001–R4,000), New (≤ R1,000).
+
+BR-05 Repeat customer: A repeat customer is any customer with 2 or more distinct orders (used for the repeat customer rate KPI).
+
+BR-06 Average Order Value (AOV): AOV = total revenue ÷ count of distinct orders.
+
+BR-07 Profit: Profit = (unit price − cost price) × quantity, aggregated per order line.
+
+BR-08 Geographic reporting: Revenue is reported by the delivery location (province) recorded on the order since the company sells nationwide, province is the primary geographic dimension; country is always "South Africa".
+
+BR-09 Date handling: All time-based analysis (monthly sales, MoM, YoY growth) is based on `orders[order_date]`. Growth is only shown for months with prior-period data.
+
+BR-10 Payment status: Only `Completed` payments count as settled revenue; `Pending`, `Failed` and `Refunded` payments are flagged but the sale still counts unless the order was cancelled.
+
+BR-11 Product catalogue: Every order line must reference an existing product with a valid SKU; prices are locked at the unit price captured on the order line (historical price preserved).
+
+BR-12 Stock: `products[stock_quantity]` is a snapshot of current stock and is not time-tracked in this warehouse version.
