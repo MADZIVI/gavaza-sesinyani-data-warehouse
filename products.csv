@@ -1,0 +1,101 @@
+product_id,product_name,category,sku,unit_price,cost_price,stock_quantity,supplier
+1,Premium Grey Barista Apron,Barista Aprons,GSD-BAR-1001,393.73,217.14,79,Karoo Leather Goods
+2,Premium Olive Welding Apron,Welding Aprons,GSD-WEL-1002,618.18,382.7,188,Gavaza Sesinyani Workshop JHB
+3,Heritage Mustard Denim Apron,Denim Aprons,GSD-DEN-1003,562.16,347.99,285,Gavaza Sesinyani Workshop JHB
+4,Signature Black Leather Apron,Leather Aprons,GSD-LEA-1004,1148.1,558.07,158,Cape Canvas Co.
+5,Artisan Khaki Canvas Apron,Canvas Aprons,GSD-CAN-1005,287.76,162.08,205,Gavaza Sesinyani Workshop JHB
+6,Classic Navy Kids Apron,Kids Aprons,GSD-KID-1006,171.28,102.63,110,Karoo Leather Goods
+7,Rustic Khaki Waitress Apron,Waitress Aprons,GSD-WAI-1007,263.97,138.32,166,Durban Denim Works
+8,Classic Khaki Braai Apron,Braai Aprons,GSD-BRA-1008,375.02,180.57,25,Gavaza Sesinyani Workshop JHB
+9,Executive Teal Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1009,472.45,269.97,212,Cape Canvas Co.
+10,Premium Olive Chef Apron,Chef Aprons,GSD-CHE-1010,314.67,168.66,145,Durban Denim Works
+11,Signature Black Barista Apron,Barista Aprons,GSD-BAR-1011,445.99,220.37,28,Gavaza Sesinyani Workshop JHB
+12,Heritage Khaki Welding Apron,Welding Aprons,GSD-WEL-1012,603.32,363.7,148,Cape Canvas Co.
+13,Everyday Red Denim Apron,Denim Aprons,GSD-DEN-1013,324.39,173.92,66,Karoo Leather Goods
+14,Heritage Brown Leather Apron,Leather Aprons,GSD-LEA-1014,1079.32,606.3,181,Gavaza Sesinyani Workshop JHB
+15,Classic Mustard Canvas Apron,Canvas Aprons,GSD-CAN-1015,299.27,135.79,39,Cape Canvas Co.
+16,Executive Red Kids Apron,Kids Aprons,GSD-KID-1016,236.36,136.62,148,Gavaza Sesinyani Workshop JHB
+17,Rustic Khaki Waitress Apron,Waitress Aprons,GSD-WAI-1017,261.01,159.29,235,Cape Canvas Co.
+18,Premium Charcoal Braai Apron,Braai Aprons,GSD-BRA-1018,242.91,130.48,205,Durban Denim Works
+19,Signature Red Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1019,385.39,199.59,170,Umzansi Textiles
+20,Premium Brown Chef Apron,Chef Aprons,GSD-CHE-1020,272.91,150.64,178,Cape Canvas Co.
+21,Artisan Charcoal Barista Apron,Barista Aprons,GSD-BAR-1021,518.21,243.85,131,Umzansi Textiles
+22,Artisan White Welding Apron,Welding Aprons,GSD-WEL-1022,580.12,269.8,252,Karoo Leather Goods
+23,Everyday White Denim Apron,Denim Aprons,GSD-DEN-1023,559.14,354.96,289,Durban Denim Works
+24,Rustic Khaki Leather Apron,Leather Aprons,GSD-LEA-1024,890.89,479.26,240,Karoo Leather Goods
+25,Signature Grey Canvas Apron,Canvas Aprons,GSD-CAN-1025,357.85,165.05,259,Gavaza Sesinyani Workshop JHB
+26,Everyday Black Kids Apron,Kids Aprons,GSD-KID-1026,196.56,90.69,146,Gavaza Sesinyani Workshop JHB
+27,Premium Grey Waitress Apron,Waitress Aprons,GSD-WAI-1027,308.93,175.72,196,Karoo Leather Goods
+28,Classic Teal Braai Apron,Braai Aprons,GSD-BRA-1028,370.89,234.33,292,Umzansi Textiles
+29,Everyday Brown Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1029,494.69,237.54,31,Karoo Leather Goods
+30,Rustic Red Chef Apron,Chef Aprons,GSD-CHE-1030,281.05,131.21,88,Gavaza Sesinyani Workshop JHB
+31,Everyday Teal Barista Apron,Barista Aprons,GSD-BAR-1031,374.32,207.68,81,Cape Canvas Co.
+32,Signature Mustard Welding Apron,Welding Aprons,GSD-WEL-1032,729.64,387.99,173,Durban Denim Works
+33,Rustic Navy Denim Apron,Denim Aprons,GSD-DEN-1033,299.38,154.46,285,Karoo Leather Goods
+34,Artisan Olive Leather Apron,Leather Aprons,GSD-LEA-1034,855.73,399.03,72,Cape Canvas Co.
+35,Executive Khaki Canvas Apron,Canvas Aprons,GSD-CAN-1035,277.56,157.93,43,Cape Canvas Co.
+36,Rustic Khaki Kids Apron,Kids Aprons,GSD-KID-1036,233.84,136.57,269,Gavaza Sesinyani Workshop JHB
+37,Executive Brown Waitress Apron,Waitress Aprons,GSD-WAI-1037,309.2,161.52,185,Cape Canvas Co.
+38,Heritage Olive Braai Apron,Braai Aprons,GSD-BRA-1038,266.87,170.67,248,Umzansi Textiles
+39,Artisan Khaki Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1039,451.94,210.35,51,Durban Denim Works
+40,Classic White Chef Apron,Chef Aprons,GSD-CHE-1040,481.26,248.98,67,Durban Denim Works
+41,Artisan Khaki Barista Apron,Barista Aprons,GSD-BAR-1041,413.02,254.53,84,Karoo Leather Goods
+42,Rustic White Welding Apron,Welding Aprons,GSD-WEL-1042,482.77,286.73,227,Durban Denim Works
+43,Everyday Charcoal Denim Apron,Denim Aprons,GSD-DEN-1043,385.42,214.6,158,Karoo Leather Goods
+44,Heritage Olive Leather Apron,Leather Aprons,GSD-LEA-1044,1413.58,827.88,292,Karoo Leather Goods
+45,Signature Mustard Canvas Apron,Canvas Aprons,GSD-CAN-1045,315.42,173.66,214,Umzansi Textiles
+46,Artisan Burgundy Kids Apron,Kids Aprons,GSD-KID-1046,272.53,125.48,246,Cape Canvas Co.
+47,Premium Red Waitress Apron,Waitress Aprons,GSD-WAI-1047,290.91,180.13,63,Cape Canvas Co.
+48,Artisan Burgundy Braai Apron,Braai Aprons,GSD-BRA-1048,241.81,130.54,262,Umzansi Textiles
+49,Premium Charcoal Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1049,723.97,444.04,178,Gavaza Sesinyani Workshop JHB
+50,Executive Brown Chef Apron,Chef Aprons,GSD-CHE-1050,374.47,196.52,197,Gavaza Sesinyani Workshop JHB
+51,Classic Olive Barista Apron,Barista Aprons,GSD-BAR-1051,412.47,262.4,171,Umzansi Textiles
+52,Signature Teal Welding Apron,Welding Aprons,GSD-WEL-1052,553.2,325.95,71,Karoo Leather Goods
+53,Classic Navy Denim Apron,Denim Aprons,GSD-DEN-1053,445.98,202.39,110,Umzansi Textiles
+54,Executive Navy Leather Apron,Leather Aprons,GSD-LEA-1054,1093.92,662.08,121,Cape Canvas Co.
+55,Heritage Mustard Canvas Apron,Canvas Aprons,GSD-CAN-1055,230.46,133.16,234,Gavaza Sesinyani Workshop JHB
+56,Everyday Grey Kids Apron,Kids Aprons,GSD-KID-1056,166.63,92.85,263,Durban Denim Works
+57,Artisan Burgundy Waitress Apron,Waitress Aprons,GSD-WAI-1057,228.39,122.38,180,Umzansi Textiles
+58,Artisan White Braai Apron,Braai Aprons,GSD-BRA-1058,368.37,215.0,268,Cape Canvas Co.
+59,Classic Mustard Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1059,380.46,237.66,22,Karoo Leather Goods
+60,Signature Red Chef Apron,Chef Aprons,GSD-CHE-1060,544.31,246.71,34,Cape Canvas Co.
+61,Premium Grey Barista Apron,Barista Aprons,GSD-BAR-1061,372.34,222.3,170,Umzansi Textiles
+62,Rustic White Welding Apron,Welding Aprons,GSD-WEL-1062,483.25,234.38,237,Karoo Leather Goods
+63,Artisan Navy Denim Apron,Denim Aprons,GSD-DEN-1063,513.74,304.76,234,Gavaza Sesinyani Workshop JHB
+64,Classic Charcoal Leather Apron,Leather Aprons,GSD-LEA-1064,864.1,541.93,161,Cape Canvas Co.
+65,Everyday Burgundy Canvas Apron,Canvas Aprons,GSD-CAN-1065,328.85,150.39,97,Cape Canvas Co.
+66,Classic White Kids Apron,Kids Aprons,GSD-KID-1066,203.55,105.11,63,Cape Canvas Co.
+67,Executive Red Waitress Apron,Waitress Aprons,GSD-WAI-1067,267.39,143.84,197,Cape Canvas Co.
+68,Everyday Red Braai Apron,Braai Aprons,GSD-BRA-1068,473.17,260.01,265,Cape Canvas Co.
+69,Executive Navy Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1069,710.52,380.92,92,Durban Denim Works
+70,Premium Navy Chef Apron,Chef Aprons,GSD-CHE-1070,338.13,174.33,151,Cape Canvas Co.
+71,Executive Khaki Barista Apron,Barista Aprons,GSD-BAR-1071,433.77,255.04,179,Karoo Leather Goods
+72,Rustic Grey Welding Apron,Welding Aprons,GSD-WEL-1072,481.77,312.97,140,Gavaza Sesinyani Workshop JHB
+73,Executive Olive Denim Apron,Denim Aprons,GSD-DEN-1073,307.77,170.08,81,Gavaza Sesinyani Workshop JHB
+74,Everyday Black Leather Apron,Leather Aprons,GSD-LEA-1074,728.5,346.22,120,Cape Canvas Co.
+75,Classic Grey Canvas Apron,Canvas Aprons,GSD-CAN-1075,290.54,139.66,230,Cape Canvas Co.
+76,Premium Grey Kids Apron,Kids Aprons,GSD-KID-1076,205.8,98.28,187,Karoo Leather Goods
+77,Signature Charcoal Waitress Apron,Waitress Aprons,GSD-WAI-1077,242.88,155.95,13,Umzansi Textiles
+78,Executive Brown Braai Apron,Braai Aprons,GSD-BRA-1078,349.75,165.62,133,Karoo Leather Goods
+79,Signature Red Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1079,446.56,282.8,251,Umzansi Textiles
+80,Premium Teal Chef Apron,Chef Aprons,GSD-CHE-1080,286.79,138.96,227,Gavaza Sesinyani Workshop JHB
+81,Rustic White Barista Apron,Barista Aprons,GSD-BAR-1081,543.15,282.16,33,Durban Denim Works
+82,Signature Khaki Welding Apron,Welding Aprons,GSD-WEL-1082,856.63,507.43,89,Cape Canvas Co.
+83,Premium Charcoal Denim Apron,Denim Aprons,GSD-DEN-1083,468.24,284.88,121,Karoo Leather Goods
+84,Rustic Teal Leather Apron,Leather Aprons,GSD-LEA-1084,623.66,380.89,282,Umzansi Textiles
+85,Premium Navy Canvas Apron,Canvas Aprons,GSD-CAN-1085,352.99,180.68,245,Durban Denim Works
+86,Executive Grey Kids Apron,Kids Aprons,GSD-KID-1086,211.62,98.35,162,Gavaza Sesinyani Workshop JHB
+87,Rustic Khaki Waitress Apron,Waitress Aprons,GSD-WAI-1087,269.99,168.9,282,Durban Denim Works
+88,Artisan Mustard Braai Apron,Braai Aprons,GSD-BRA-1088,267.31,147.17,28,Gavaza Sesinyani Workshop JHB
+89,Signature Khaki Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1089,583.15,281.31,115,Cape Canvas Co.
+90,Signature Navy Chef Apron,Chef Aprons,GSD-CHE-1090,534.24,267.18,282,Cape Canvas Co.
+91,Signature Grey Barista Apron,Barista Aprons,GSD-BAR-1091,337.55,187.91,257,Umzansi Textiles
+92,Artisan Khaki Welding Apron,Welding Aprons,GSD-WEL-1092,893.86,520.0,172,Durban Denim Works
+93,Classic Navy Denim Apron,Denim Aprons,GSD-DEN-1093,295.24,135.54,295,Cape Canvas Co.
+94,Executive Grey Leather Apron,Leather Aprons,GSD-LEA-1094,1186.02,685.28,254,Durban Denim Works
+95,Signature Teal Canvas Apron,Canvas Aprons,GSD-CAN-1095,272.42,135.93,207,Cape Canvas Co.
+96,Classic Khaki Kids Apron,Kids Aprons,GSD-KID-1096,218.03,117.28,247,Karoo Leather Goods
+97,Artisan Olive Waitress Apron,Waitress Aprons,GSD-WAI-1097,220.8,137.4,163,Cape Canvas Co.
+98,Artisan Olive Braai Apron,Braai Aprons,GSD-BRA-1098,473.6,261.9,54,Cape Canvas Co.
+99,Premium Burgundy Custom Printed Apron,Custom Printed Aprons,GSD-CUS-1099,458.78,247.7,72,Gavaza Sesinyani Workshop JHB
+100,Executive Grey Chef Apron,Chef Aprons,GSD-CHE-1100,265.18,141.51,81,Cape Canvas Co.

@@ -1,0 +1,101 @@
+location_id,street_address,city,province,postal_code,country
+1,115 Mandela Road,Worcester,Western Cape,5012,South Africa
+2,143 Church Street,Pietermaritzburg,KwaZulu-Natal,7912,South Africa
+3,31 Church Avenue,Gqeberha,Eastern Cape,4811,South Africa
+4,617 Mandela Avenue,Lephalale,Limpopo,9928,South Africa
+5,226 Albertina Sisulu Road,Lydenburg,Mpumalanga,1106,South Africa
+6,715 Chris Hani Road,Potchefstroom,North West,5552,South Africa
+7,221 Pixley ka Seme Street,Bethlehem,Free State,2519,South Africa
+8,100 Pixley ka Seme Road,De Aar,Northern Cape,5333,South Africa
+9,748 Albertina Sisulu Street,Johannesburg,Gauteng,7201,South Africa
+10,566 Long Road,Cape Town,Western Cape,4150,South Africa
+11,72 Mandela Avenue,Umhlanga,KwaZulu-Natal,5741,South Africa
+12,876 Voortrekker Street,Gqeberha,Eastern Cape,7227,South Africa
+13,465 Pixley ka Seme Avenue,Tzaneen,Limpopo,7065,South Africa
+14,215 Long Street,Secunda,Mpumalanga,3803,South Africa
+15,747 Voortrekker Avenue,Brits,North West,8573,South Africa
+16,277 Jan Smuts Avenue,Sasolburg,Free State,6313,South Africa
+17,235 Mandela Road,Kimberley,Northern Cape,7572,South Africa
+18,68 Voortrekker Road,Midrand,Gauteng,4483,South Africa
+19,512 Chris Hani Drive,Worcester,Western Cape,3340,South Africa
+20,143 Voortrekker Road,Richards Bay,KwaZulu-Natal,8019,South Africa
+21,409 Pixley ka Seme Avenue,Mossel Bay,Eastern Cape,3266,South Africa
+22,506 Church Street,Lephalale,Limpopo,2796,South Africa
+23,643 Main Drive,Emalahleni,Mpumalanga,2040,South Africa
+24,391 Oxford Drive,Mahikeng,North West,9669,South Africa
+25,995 Jan Smuts Street,Welkom,Free State,2876,South Africa
+26,788 Pixley ka Seme Street,Springbok,Northern Cape,5808,South Africa
+27,162 Albertina Sisulu Street,Vereeniging,Gauteng,5315,South Africa
+28,781 Main Street,Somerset West,Western Cape,5889,South Africa
+29,520 Oxford Avenue,Umhlanga,KwaZulu-Natal,3504,South Africa
+30,781 Main Street,Mthatha,Eastern Cape,6310,South Africa
+31,20 Church Road,Mokopane,Limpopo,6038,South Africa
+32,60 Voortrekker Street,Emalahleni,Mpumalanga,2403,South Africa
+33,836 Church Avenue,Mahikeng,North West,3103,South Africa
+34,970 Jan Smuts Avenue,Sasolburg,Free State,5342,South Africa
+35,988 Voortrekker Avenue,De Aar,Northern Cape,6107,South Africa
+36,688 Pixley ka Seme Drive,Vereeniging,Gauteng,9479,South Africa
+37,124 Voortrekker Avenue,George,Western Cape,2049,South Africa
+38,22 Oxford Avenue,Richards Bay,KwaZulu-Natal,4608,South Africa
+39,73 Mandela Avenue,Gqeberha,Eastern Cape,2104,South Africa
+40,881 Pixley ka Seme Street,Polokwane,Limpopo,9423,South Africa
+41,286 Albertina Sisulu Avenue,Emalahleni,Mpumalanga,9834,South Africa
+42,741 Oxford Drive,Potchefstroom,North West,4981,South Africa
+43,827 Chris Hani Avenue,Sasolburg,Free State,2545,South Africa
+44,675 Chris Hani Road,Kimberley,Northern Cape,7939,South Africa
+45,479 Mandela Street,Vereeniging,Gauteng,1993,South Africa
+46,746 Pixley ka Seme Street,George,Western Cape,5073,South Africa
+47,195 Jan Smuts Drive,Pietermaritzburg,KwaZulu-Natal,3296,South Africa
+48,188 Long Drive,Grahamstown,Eastern Cape,5092,South Africa
+49,454 Jan Smuts Street,Polokwane,Limpopo,1828,South Africa
+50,857 Mandela Street,Ermelo,Mpumalanga,4872,South Africa
+51,417 Albertina Sisulu Drive,Potchefstroom,North West,4502,South Africa
+52,925 Mandela Avenue,Sasolburg,Free State,7209,South Africa
+53,400 Long Drive,Kimberley,Northern Cape,5673,South Africa
+54,714 Jan Smuts Drive,Vereeniging,Gauteng,3536,South Africa
+55,304 Voortrekker Street,Stellenbosch,Western Cape,9883,South Africa
+56,766 Pixley ka Seme Street,Durban,KwaZulu-Natal,1821,South Africa
+57,489 Jan Smuts Avenue,Mossel Bay,Eastern Cape,1931,South Africa
+58,83 Main Street,Lephalale,Limpopo,2113,South Africa
+59,414 Church Avenue,Emalahleni,Mpumalanga,1651,South Africa
+60,84 Chris Hani Road,Brits,North West,5272,South Africa
+61,686 Pixley ka Seme Avenue,Bethlehem,Free State,5351,South Africa
+62,135 Long Drive,De Aar,Northern Cape,6180,South Africa
+63,10 Albertina Sisulu Street,Pretoria,Gauteng,2200,South Africa
+64,219 Jan Smuts Road,Somerset West,Western Cape,3170,South Africa
+65,903 Church Avenue,Richards Bay,KwaZulu-Natal,7054,South Africa
+66,162 Albertina Sisulu Road,Mthatha,Eastern Cape,9666,South Africa
+67,684 Jan Smuts Road,Polokwane,Limpopo,2697,South Africa
+68,271 Church Street,Emalahleni,Mpumalanga,3546,South Africa
+69,289 Oxford Avenue,Klerksdorp,North West,6617,South Africa
+70,704 Long Drive,Bethlehem,Free State,5114,South Africa
+71,95 Chris Hani Road,Kimberley,Northern Cape,1722,South Africa
+72,342 Main Road,Johannesburg,Gauteng,3647,South Africa
+73,453 Jan Smuts Drive,Worcester,Western Cape,1158,South Africa
+74,78 Main Street,Durban,KwaZulu-Natal,7049,South Africa
+75,566 Main Drive,Mossel Bay,Eastern Cape,3088,South Africa
+76,316 Pixley ka Seme Street,Polokwane,Limpopo,6862,South Africa
+77,699 Voortrekker Street,Emalahleni,Mpumalanga,6794,South Africa
+78,906 Chris Hani Avenue,Brits,North West,4878,South Africa
+79,820 Main Drive,Bethlehem,Free State,1406,South Africa
+80,755 Pixley ka Seme Drive,Upington,Northern Cape,5065,South Africa
+81,164 Church Drive,Midrand,Gauteng,1634,South Africa
+82,228 Voortrekker Drive,George,Western Cape,6728,South Africa
+83,841 Voortrekker Avenue,Richards Bay,KwaZulu-Natal,1387,South Africa
+84,409 Pixley ka Seme Road,East London,Eastern Cape,2137,South Africa
+85,360 Jan Smuts Drive,Tzaneen,Limpopo,9785,South Africa
+86,962 Mandela Street,Secunda,Mpumalanga,5279,South Africa
+87,595 Long Street,Potchefstroom,North West,2776,South Africa
+88,445 Pixley ka Seme Road,Bloemfontein,Free State,8149,South Africa
+89,395 Oxford Avenue,Kimberley,Northern Cape,5173,South Africa
+90,726 Chris Hani Street,Johannesburg,Gauteng,9518,South Africa
+91,704 Voortrekker Road,Somerset West,Western Cape,8066,South Africa
+92,972 Pixley ka Seme Road,Durban,KwaZulu-Natal,3041,South Africa
+93,520 Long Drive,Mthatha,Eastern Cape,6344,South Africa
+94,714 Long Avenue,Mokopane,Limpopo,4143,South Africa
+95,681 Chris Hani Avenue,Lydenburg,Mpumalanga,5930,South Africa
+96,562 Mandela Road,Mahikeng,North West,5700,South Africa
+97,441 Oxford Road,Bethlehem,Free State,8618,South Africa
+98,453 Voortrekker Drive,De Aar,Northern Cape,3780,South Africa
+99,291 Jan Smuts Road,Pretoria,Gauteng,2530,South Africa
+100,689 Long Avenue,Stellenbosch,Western Cape,4262,South Africa
